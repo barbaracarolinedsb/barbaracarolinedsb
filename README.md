@@ -9,8 +9,8 @@ Sou estudante de desenvolvimento web, atualmente aprendendo HTML, CSS e JavaScri
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barbaracarolinedsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Barbara" />
-  <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barbaracarolinedsb&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas por Barbara" />
+  <img  height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barbaracarolinedsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Barbara" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barbaracarolinedsb&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas por Barbara" />
 </div>
 
 ## 💻 Tecnologias que estou estudando
